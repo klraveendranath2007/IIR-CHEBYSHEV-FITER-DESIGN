@@ -1,4 +1,4 @@
-## EXP 3 A : IIR CHEBYSHEV FITER DESIGN
+## EXP 3 B : IIR CHEBYSHEV FITER DESIGN
 
 ### AIM: 
  To design an IIR Butterworth filter using bilinear transformation in SCILAB. 
