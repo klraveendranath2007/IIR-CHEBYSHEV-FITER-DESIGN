@@ -169,15 +169,15 @@ title('Frequency Response of Chebyshev IIR High-Pass Filter');
 
 ### OUTPUT (LPF) : 
 
-<img width="443" height="691" alt="image" src="https://github.com/user-attachments/assets/695921c0-7cd9-4ea5-999a-7c719036eea5" />
-<img width="529" height="455" alt="image" src="https://github.com/user-attachments/assets/185261d5-fa23-4273-b7e0-9fb0e20e9e35" />
+<img width="443" height="591" alt="image" src="https://github.com/user-attachments/assets/695921c0-7cd9-4ea5-999a-7c719036eea5" />
+<img width="429" height="455" alt="image" src="https://github.com/user-attachments/assets/185261d5-fa23-4273-b7e0-9fb0e20e9e35" />
 
 
 
 ### OUTPUT (HPF) : 
 <img width="442" height="558" alt="image" src="https://github.com/user-attachments/assets/9a07374f-14f0-489e-94d1-f6d4b9939c94" />
 
-<img width="545" height="453" alt="image" src="https://github.com/user-attachments/assets/4f431c69-8a13-441e-850a-72b5774de5a2" />
+<img width="445" height="453" alt="image" src="https://github.com/user-attachments/assets/4f431c69-8a13-441e-850a-72b5774de5a2" />
 
 ### RESULT: 
 Thus , the IIR Chebyshev filter was designed successfully using bilinear transformation in SCILAB.
